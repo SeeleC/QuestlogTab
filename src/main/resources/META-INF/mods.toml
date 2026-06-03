@@ -28,7 +28,7 @@ side = "BOTH"
 [[dependencies."${mod_id}"]]
 modId = "questlog"
 mandatory = true
-versionRange = "(,2.3.0]"
+versionRange = "*"
 ordering = "NONE"
 side = "BOTH"
 

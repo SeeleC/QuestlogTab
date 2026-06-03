@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "org.gloriosayuu.questlogtab.mixin",
+  "package": "dev.gloriosayuu.questlogtab.mixin",
   "compatibilityLevel": "JAVA_8",
   "refmap": "questlogtab.refmap.json",
   "mixins": [

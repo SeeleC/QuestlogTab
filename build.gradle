@@ -180,9 +180,10 @@ dependencies {
 
     // l2library-2.5.3.jar
     implementation fg.deobf("curse.maven:l2library-620203:6806000")
-
     implementation fg.deobf("dev.xkmc.l2tabs:l2tabs:0.3.3")
 
+    // catalogue
+    implementation fg.deobf("curse.maven:catalogue-459701:4766090")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
